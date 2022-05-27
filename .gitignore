@@ -1,0 +1,8 @@
+*.aux
+*.log
+*.out
+*.tex
+*.zip
+/EPC2_files
+/EPC1_files
+*.pdf
