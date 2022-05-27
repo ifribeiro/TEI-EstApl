@@ -1,6 +1,17 @@
+<<<<<<< HEAD
 *_files
 *.jpeg
 *.aux
 *.tex
 *.out
 *.log
+=======
+*.aux
+*.log
+*.out
+*.tex
+*.zip
+/EPC2_files
+/EPC1_files
+*.pdf
+>>>>>>> 75b9f914306f9848b92db6546a0ea2289445596a
